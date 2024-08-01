@@ -4,7 +4,7 @@ This repository documents my learning experience on Exploratory Data Analysis (E
 
 ## Dataset
 
-The project uses the Titanic dataset, focusing on variables like `Survived` , 'Age' and `Fare`.
+The project uses the Titanic dataset, focusing on variables like `Survived` , `Age` and `Fare`.
 
 ## Installation
 
